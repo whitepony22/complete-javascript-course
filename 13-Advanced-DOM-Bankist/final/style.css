@@ -131,7 +131,7 @@ img {
 }
 
 .nav__logo {
-  height: 4.5rem;
+  height: 10.5rem;
   transition: all 0.3s;
 }
 
@@ -570,7 +570,7 @@ h4 {
 }
 
 .footer__logo {
-  height: 5rem;
+  height: 10rem;
   display: block;
   margin: 0 auto;
   margin-bottom: 5rem;
